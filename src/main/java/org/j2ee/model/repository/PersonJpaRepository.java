@@ -1,4 +1,6 @@
 package org.j2ee.model.repository;
+import java.util.List;
+
 import org.j2ee.model.entity.Person;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
@@ -24,4 +26,8 @@ public interface PersonJpaRepository extends JpaRepository<Person,Long> {
     boolean existsByEmail(String email);
 
     Page<Person> findAll(Pageable pageable);
+
+    List<Person> findAll();
+
+    void deleteById(Long id);
 }

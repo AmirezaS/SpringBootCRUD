@@ -3,5 +3,8 @@
 /Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/main/Main.java
 /Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/model/repository/PersonJpaRepository.java
 /Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/dto/PersonResponse.java
+/Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/controller/PersonViewController.java
+/Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/service/PersonService.java
 /Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/dto/PagedResponse.java
+/Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/controller/PersonController.java
 /Users/amir/Desktop/workspace/githubProjects/SpringBootCRUD/src/main/java/org/j2ee/model/entity/Person.java
